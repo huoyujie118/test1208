@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xuxian"
+  id="myeclipse.1479816409190"
+  context-root="/xuxian"
+  j2ee-spec="5.0"
+  archive="xuxian.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
